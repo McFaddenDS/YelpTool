@@ -1,4 +1,4 @@
-# Code by Duncan McFadden using OAUTH and JSON
+# Code by Duncan McFadden using gems OAUTH and JSON
 # Assigned and revised by Nick Walker
 require 'rubygems'
 require 'oauth'
