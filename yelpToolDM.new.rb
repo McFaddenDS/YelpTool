@@ -1,3 +1,5 @@
+# Code by Duncan McFadden using OAUTH and JSON
+# Assigned and revised by Nick Walker
 require 'rubygems'
 require 'oauth'
 require 'json'
